@@ -63,7 +63,8 @@ Compatibility: Ensure the system is compatible across various devices and browse
 
 Use Case Diagrams
 
-![00d529a8-7146-4a63-9ec0-2395ba63a2ec](https://github.com/user-attachments/assets/89dd293d-57f5-4775-8fdb-0d2e5fd7b6ae)
+![alx-booking-uc](https://github.com/user-attachments/assets/532a0e9f-6fe4-41bb-a7d7-0536282756b5)
+
 
 Acceptance Criteria
 Acceptance Criteria are a set of predefined conditions that a software product or feature must meet to be accepted by stakeholders. They are crucial in Requirement Analysis because they serve as a bridge between requirements and testing, ensuring that all parties — developers, testers, and stakeholders — have a shared understanding of what "done" means for a feature.
